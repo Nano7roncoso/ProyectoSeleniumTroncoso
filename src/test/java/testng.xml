@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suit pruebas de regresión">
+    <test name="Test curso automatización">
+        <classes>
+            <class name="Tests.Tests"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
